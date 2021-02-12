@@ -17,9 +17,8 @@ public class Array1 {
 		frase = entrada.next();
 		
 		frase = frase.toLowerCase();
-		
-		
-		
+	
+			//Hola
 	}
 
 }
